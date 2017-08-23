@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/emp3ror/scapehorse/issues"
   },
-  "homepage": "https://github.com/emp3ror/scapehorse#readme"
+  "homepage": "https://github.com/emp3ror/scapehorse#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
 }
