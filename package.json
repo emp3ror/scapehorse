@@ -1,0 +1,24 @@
+{
+  "name": "scapehorse",
+  "version": "0.0.0",
+  "description": "a small library providing utiltiy methods to escape and unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emp3ror/scapehorse.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "mjt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emp3ror/scapehorse/issues"
+  },
+  "homepage": "https://github.com/emp3ror/scapehorse#readme"
+}
