@@ -1,6 +1,6 @@
 {
   "name": "scapehorse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a small library providing utiltiy methods to escape and unescape HTML entities",
   "main": "index.js",
   "scripts": {
